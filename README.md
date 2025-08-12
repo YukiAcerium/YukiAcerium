@@ -27,13 +27,6 @@ I enjoy building clean and functional code, experimenting with new tools, and ke
 
 ---
 
-## 📂 Projects
-- *(Coming soon)* Minimal tools and libraries  
-- *(Coming soon)* Personal experiments in web development  
-- *(Coming soon)* Open-source utilities
-
----
-
 ## 📫 Connect
 - Email: yukiacerium@gmail.com
 - GitHub: [github.com/YukiAcerium](https://github.com/YukiAcerium)
