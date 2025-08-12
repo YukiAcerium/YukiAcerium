@@ -1,16 +1,43 @@
-## Hi there 👋
+# ❄️ YukiAcerium
 
-<!--
-**YukiAcerium/YukiAcerium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Code like snow — clean, minimal, and quietly powerful."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 About Me
+Hi, I'm **YukiAcerium** — a developer exploring the intersection of technology and creativity.  
+I enjoy building clean and functional code, experimenting with new tools, and keeping things minimal yet expressive.
+
+- 💻 Currently learning **Rust** & **TypeScript**
+- 🐍 Enjoy working with **Python** for various projects
+- 🌱 Open to collaborations and open-source contributions
+
+---
+
+## ⚙️ Tech Stack
+![Languages](https://skillicons.dev/icons?i=python,rust,ts,js,java)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs)
+![Tools](https://skillicons.dev/icons?i=git,linux,docker,vscode)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YukiAcerium&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YukiAcerium&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Projects
+- *(Coming soon)* Minimal tools and libraries  
+- *(Coming soon)* Personal experiments in web development  
+- *(Coming soon)* Open-source utilities
+
+---
+
+## 📫 Connect
+- Email: yukiacerium@gmail.com
+- GitHub: [github.com/YukiAcerium](https://github.com/YukiAcerium)
+
+---
+
+> _"In every line of code, there's a trace of snow."_ ❄️
