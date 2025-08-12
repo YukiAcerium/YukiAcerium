@@ -27,10 +27,4 @@ I enjoy building clean and functional code, experimenting with new tools, and ke
 
 ---
 
-## 📫 Connect
-- Email: yukiacerium@gmail.com
-- GitHub: [github.com/YukiAcerium](https://github.com/YukiAcerium)
-
----
-
 > _"In every line of code, there's a trace of snow."_ ❄️
